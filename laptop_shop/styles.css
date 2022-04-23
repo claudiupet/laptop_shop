@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: bisque;
+  margin: 0 auto;
+}
+
+.autentificare {
+  width: 10%;
+  background-color: #e7e4e4;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=styles.css.map */
